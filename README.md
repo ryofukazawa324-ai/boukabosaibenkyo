@@ -13,8 +13,8 @@
 - 学習進捗・ベストスコア・苦手問題を端末内に自動保存
 - iPhone / Android / PC対応
 
-## 公開ページ
-GitHub Pages: https://ryofukazawa324-ai.github.io/boukabosaibenkyo/
+## GitHub Pages公開URL
+Pages有効化後: https://ryofukazawa324-ai.github.io/boukabosaibenkyo/
 
 ## 注意
 法令の具体的な適用条件・数値・周期・様式は変更される可能性があります。実際の講習・届出・実務では、最新版の講習テキスト、消防関係法令集、所轄消防機関の案内を優先してください。
